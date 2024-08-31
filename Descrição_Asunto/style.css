@@ -1,0 +1,16 @@
+body{
+    background-color: darkslategray;
+}
+h1{
+    color: blanchedalmond;
+    text-shadow: 2px 3px 4px #000;
+}
+h2{
+    color: red;
+    text-shadow: 2px 3px 4px #000;
+    margin: 50px;
+}
+li{
+    color: burlywood;
+    font-size: 20px;
+}
